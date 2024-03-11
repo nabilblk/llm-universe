@@ -1,0 +1,9 @@
+# Ignore IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Ignore build directory
+/target/
+
+# Ignore macOS specific files
+.DS_Store
